@@ -89,7 +89,7 @@ class Appointment extends Component {
                 </label>
                 <input
                   type="date"
-id = "date"
+                  id = "date"
                   value={initialAppointmentDate}
                   onChange={this.onChangeDate}
                   className="date-input"
